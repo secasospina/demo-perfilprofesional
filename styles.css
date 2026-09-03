@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+}
+
+h1 {
+  color: red;
+  font-size: 4rem;
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.container {
+  line-height: 2;
+  width: 300px;
+  padding: 40px;
+  border: 2px solid black;
+  background-color: #fff5f5;
+}
